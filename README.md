@@ -67,8 +67,7 @@ churn-classification/
 │   ├── create_model.py
 │   └── prediction.py
 │
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 ### data/
 Contém todos os dados do projeto, organizados por estágio do pipeline.
